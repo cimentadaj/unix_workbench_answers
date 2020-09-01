@@ -1,0 +1,3 @@
+[submodule "fake_repo"]
+	path = fake_repo
+	url = ./fake_repo/
