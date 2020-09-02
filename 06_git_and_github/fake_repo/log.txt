@@ -1,0 +1,17 @@
+commit 50fa797a0263940eef24a2a75d062c5d2e68ecf9
+Author: Jorge Cimentada <cimentadaj@gmail.com>
+Date:   Fri Aug 28 09:41:30 2020 +0200
+
+    Push both files
+
+commit 6ca2b2ea113f7e6b063c7f00c718e82b60c041d5
+Author: Jorge Cimentada <cimentadaj@gmail.com>
+Date:   Fri Aug 28 09:41:20 2020 +0200
+
+    Adds shebang file.txt
+
+commit c6eb958c1dd90d6c0f974e6e009ff22e7bfd65ac
+Author: Jorge Cimentada <cimentadaj@gmail.com>
+Date:   Fri Aug 28 09:40:10 2020 +0200
+
+    First commit
